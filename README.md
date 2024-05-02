@@ -1,4 +1,4 @@
-[日本語](読んで.md) [繁體中文](看我.md)
+Other Languages:[🇯🇵日本語](読んで.md)　🇨🇳普通话(施工中)　[🇹🇼國語](看我.md)　粵語(施工中)
 # Fira Code Half
 Fira Code Half is fira code with all* the ligatures and features, but fits into half of a square.
 This allows people to mix it with other CJK, without breaking any monospace-ity.
